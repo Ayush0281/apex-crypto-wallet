@@ -5,9 +5,9 @@ A modern, secure, and intuitive cryptocurrency wallet & trading platform UI buil
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="d:\Users\Download\Home.01.png" width="250" />
-  <img src="d:\Users\Download\Market.02.png" width="250" />
-  <img src="d:\Users\Download\Stock_Update.03.png" width="250" />
+  <img src="screenshot/Home.01.png" width="250" />
+  <img src="screenshot/Market.02.png" width="250" />
+  <img src="screenshot/Stock_Update.03.png" width="250" />
 </p>
 
 ## ✨ Features
